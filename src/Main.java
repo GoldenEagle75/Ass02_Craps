@@ -13,8 +13,6 @@ public class Main {
         int pointNumber;
         String userContinue;
         do {
-            in.nextLine();
-
             done = false;
             die1 = rnd.nextInt(1,7);
             die2 = rnd.nextInt(1,7);
